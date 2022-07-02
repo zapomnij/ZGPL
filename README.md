@@ -1,2 +1,2 @@
-# ZGPL
-A simple license
+# Zapomnij's General Public License
+A simple public license.
