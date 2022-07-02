@@ -1,0 +1,2 @@
+# ZGPL
+A simple license
