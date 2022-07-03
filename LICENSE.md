@@ -17,7 +17,7 @@
 - Distribute modified software in your software on terms described above.
 
 ### 2. You're not allowed to:
-- Make copy of this software, unless you inform, who is an author of this software (sometimes this situation is called 'Project Stealing').
+- Publish copy of this software, unless you inform, who is an author of this software (sometimes this situation is called 'Project Stealing').
 
 ### 3. Additional information:
 - The author of this software is not legally responsible for damages, which *child software has done,
