@@ -4,7 +4,7 @@
 # Zapomnij's General Public License 1.0
 
 #### Copyright (c) Zapomnij 2022
-#### This copyright license refers to license author, not software.
+#### This copyright refers to license author, not software.
 
 ## This software is given to you and:
 ### 1. You're allowed to:
